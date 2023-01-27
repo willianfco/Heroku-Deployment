@@ -1,6 +1,6 @@
 # Heroku-Deployment
 
-Repositório para deployment de modelo preditivo que usa uma VGG16 para classificação de imagens de Raio X toráxico, visando diagnosticar cardiomegalia.
+Repositório para deployment de modelo preditivo que usa uma VGG16 para classificação de imagens de Raio X torácico, visando diagnosticar cardiomegalia.
 
 ## Licença
 
