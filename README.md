@@ -4,4 +4,4 @@ Repositório para deployment de modelo preditivo que usa uma VGG16 para classifi
 
 ## Licença
 
-O projeto está disponibilizado sob a licença Creative Commons Zero v1.0 Universal, que veda o uso comercial, mas libera a modificação e compartilhamento dos códigos aqui disponibilizados. Para mais informações, verificar em `LICENSE`.
+O projeto está disponibilizado sob a licença creative Commons Attribution-NonCommercial 4.0 International Public, que veda o uso comercial, mas libera a modificação e compartilhamento dos códigos aqui disponibilizados. Para mais informações, verificar em `LICENSE`.
